@@ -9,4 +9,8 @@ public class Sample {
 	private void branch2() {
 		System.out.println("Branch2 coding");
 	}
+
+	private void branch1() {
+		System.out.println("branch1 coding");
+	}
 }
